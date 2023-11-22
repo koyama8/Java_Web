@@ -1,0 +1,14 @@
+package br.com.alura.gerenciador.servlet;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet("/removeEmpresa")
+public class RemoveEmpresaServlet extends HttpServlet { 
+    private static final long serialVersionUID = 1L;
+
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException
+        //TODO Auto-genarerated method stub
+        repsonse.getWriter().apeend("Served at: ").apeend(request.getContextPath*();
+        
+        
+}
