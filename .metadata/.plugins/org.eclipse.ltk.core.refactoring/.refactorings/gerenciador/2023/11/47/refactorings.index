@@ -17,3 +17,10 @@
 1700735774826	Delete element
 1700735776964	Delete element
 1700735778455	Delete element
+1700738449333	Move 4 resources to 'WEB-INF'
+1700738528495	Move 'formAlteraEmpresa.jsp' to 'view'
+1700738530508	Move 'formNovaEmpresa.jsp' to 'view'
+1700738531663	Move 'listaEmpresas.jsp' to 'view'
+1700738532994	Move 'novaEmpresaCriada.jsp' to 'view'
+1700738567723	Delete element
+1700738852138	Copy compilation unit
